@@ -1,0 +1,205 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Dangerfields Dance giving an account of several notorious crimes by him committed, viz, he pretended to be a Duke, and feigned himself to be Monmouth, with several other pranks : for which he was sentence stand in the pillory, to be vvhip'd at the carts arse, and to be sent back to prison.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A36369</idno>
+            <idno type="STC">Wing D194</idno>
+            <idno type="STC">ESTC R7115</idno>
+            <idno type="EEBO-CITATION">11896639</idno>
+            <idno type="OCLC">ocm 11896639</idno>
+            <idno type="VID">50557</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A36369)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 50557)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 528:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Dangerfields Dance giving an account of several notorious crimes by him committed, viz, he pretended to be a Duke, and feigned himself to be Monmouth, with several other pranks : for which he was sentence stand in the pillory, to be vvhip'd at the carts arse, and to be sent back to prison.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J.M. ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1685.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>In double columns.</note>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Dangerfield, Thomas, 1650?-1685.</term>
+               <term>Broadsides --  England --  London --  17th century</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:50557:1"/>
+            <!-- PDF PAGE 15 -->
+            <head>DANGERFIELDS Dance.</head>
+            <argument>
+               <p>Giving an Account of ſeveral Notorious Crimes by him Committed; <hi>VIZ,</hi> He pretended to be a DUKE, <hi>And feigned Himſelf to be</hi> MONMOUTH, <hi>With ſeveral other PRANKS: For which he was Sentenced</hi> To Stand in the <hi>Pillory,</hi> to be VVhip'd at the <hi>Carts Arſe,</hi> and to be ſent back to Priſon.</p>
+            </argument>
+            <p>This may be Printed, <hi>July</hi> 2. 1685. <hi>R. L. S.</hi>
+            </p>
+            <p>Entred according to Order.</p>
+            <figure>
+               <head>For a Seditious LIBEL.</head>
+            </figure>
+            <figure>
+               <head>SPECTAT<g ref="char:V">Ʋ</g>M ADMISSI RI<g ref="char:EOLhyphen"/>S<g ref="char:V">Ʋ</g>M TENEATIS AMICI.</head>
+            </figure>
+            <l>IT is no Wonder in this <hi>Crittick</hi> Age,</l>
+            <l>To ſee Offenders mounted on the Stage,</l>
+            <l>And Shameful Puniſhment on them attend,</l>
+            <l>Who on their Shamming Wits ſo much depend;</l>
+            <l>
+               <hi>Scourging</hi> and <hi>Pillorys</hi> fall to their ſhare,</l>
+            <l>But all too little to make them beware:</l>
+            <l>And <hi>Impudence</hi> to ſuch a heighth is grown,</l>
+            <l>As I believe the like was never known.</l>
+            <l>Here you may ſee how <hi>Dangerfield</hi>'s Aſpir'd!</l>
+            <l>Who needs would be a <hi>Duke!</hi> by all admir'd!</l>
+            <l>His ſubtile <hi>Crotchets,</hi> and his cunning Pate,</l>
+            <l>Hath brought his Perſon to a dreadful State.</l>
+            <l>How he did Scamper, if you did but mind,</l>
+            <l>When on his Back he did the Torment find</l>
+            <l>Of Scourging Juſtice, it would make you Smile,</l>
+            <l>To ſee how Fortune did his hopes beguile;</l>
+            <l>And brought his feigned <hi>Highneſs</hi> to the <hi>Laſh,</hi>
+            </l>
+            <l>Till briniſh Tears his Brazen-Face did Waſh.</l>
+            <l>O hapleſs <hi>Dangerfield!</hi> thou art miſtook,</l>
+            <l>That did for <hi>Honour</hi> and <hi>Obedience</hi> look.</l>
+            <l>Thy great Ambition all Men do Rebuke,</l>
+            <l>Could nothing ſerve, but thou muſt be a DUKE?</l>
+            <l>Fie, fie, it was too great and high a Stile,</l>
+            <l>Tho' Fortune for a moment ſeem'd to Smile;</l>
+            <l>Yet from thy Honour thou cam'ſt tumbling down,</l>
+            <l>When ſhe once fac'd about on thee to Frown:</l>
+            <l>Old <hi>Newgate</hi> was the place to Entertain</l>
+            <l>The <hi>Shamming</hi> DUKE, where thou didſt long remain;</l>
+            <l>Till thou wert <hi>Whipt</hi> and <hi>Scourg'd</hi> along the Streets,</l>
+            <l>Which ſeem'd <hi>Sowre Sauce</hi> after ſo many <hi>Sweets;</hi>
+            </l>
+            <l>Yet 'twas but Juſt thou ſhould'ſt it undergo,</l>
+            <l>Becauſe that you ſuch <hi>Shirking Tricks</hi> did ſhow;</l>
+            <l>And brought thee unto Condign Puniſhment,</l>
+            <l>
+               <hi>If't pleaſe Tour Highneſs,</hi> what was your intent?</l>
+            <l>Poor VVomen to deceive, and get their Coyn,</l>
+            <l>It is no better then for to <hi>Purloyn;</hi>
+            </l>
+            <l>And make the VVorld believe thou wert ſome Spark</l>
+            <l>VVho had ſuch Honour from thy Servant <hi>Mark,</hi>
+            </l>
+            <l>Like <hi>Oats,</hi> thy hopes are now in pieces craſh'd,</l>
+            <l>The Brains of thy Ambition out are daſh'd.</l>
+            <l>
+               <hi>Whipping,</hi> inſtead of <hi>Cringing</hi> unto thee,</l>
+            <l>Thou may'ſt expect will now thy Portion be.</l>
+            <l>Thy Name for ever will be on Record,</l>
+            <l>Thou muſt not be a <hi>Duke,</hi> nor yet a <hi>Lord;</hi>
+            </l>
+            <l>A <hi>Newgate-Bird</hi> thou may'ſt accounted be,</l>
+            <l>Highly deſerving of the <hi>PILLORY.</hi>
+            </l>
+            <l>And ſince ſo Arch and Cunning thou art grown,</l>
+            <l>To play ſuch Pranks as ne'r before was known;</l>
+            <l>'Tis pitty thou ſhould'ſt 'want of thy Deſert,</l>
+            <l>Tho' now thy Title is not worth a Fart.</l>
+            <l>And ſo <hi>Duke Dangerfield</hi> I bid adieu,</l>
+            <l>A thouſand <hi>Laſhes</hi> I bequeath to you;</l>
+            <l>And hope you may to others warning be,</l>
+            <l>Never to practice ſuch baſe Villany.</l>
+            <l>Your Suffering, you cannot well deny,</l>
+            <l>Is the Reward of your Audaucity;</l>
+            <l>To this your Reaſon cannot chuſe but yield,</l>
+            <l>And now look to your Hits, <hi>Duke Dangerfield.</hi>
+            </l>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed by <hi>J. M.</hi> in the Year MDCLXXXV:</p>
+         </div>
+      </back>
+   </text>
+</TEI>
